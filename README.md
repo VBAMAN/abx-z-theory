@@ -120,3 +120,5 @@ This model is intended to:
 
 This is an evolving concept.
 Feedback, criticism, and reinterpretation are welcome.
+
+![ABX-Z Diagram](abx-z-diagram.svg)
